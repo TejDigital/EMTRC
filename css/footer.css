@@ -1,7 +1,7 @@
 /* --------------------Footer---------------------------- */
 .footer {
     position: relative;
-    background-color: #318930;
+    background-color: #308949;
     color: #fff;
     padding-top: 2rem;
 }
@@ -12,8 +12,8 @@
 
 .footer .left_text .imgs {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    align-items: start;
+    justify-content: left;
 }
 
 .footer .left_text .imgs .img1 {
@@ -47,6 +47,15 @@
 .footer .address {
     position: relative;
 }
+.footer .address p{
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 15px;
+    letter-spacing: 0.015em;
+    text-align: left;
+    word-break: break-word;
+    margin: 0;
+}
 
 .footer .list {
     position: relative;
@@ -70,7 +79,7 @@
     margin-bottom: 3rem;
 }
 .footer .list ul li span{
-    font-size: 1.3rem;
+    font-size: 1rem;
     color: #fff;
     margin-right: 1rem;
 }
@@ -78,7 +87,7 @@
 .footer .list ul li a {
     text-decoration: none;
     color: #fff;
-    font-size: 1.3rem;
+    font-size: 1rem;
     font-weight: 500;
     word-break: break-word;
     line-height: 30px;

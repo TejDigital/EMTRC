@@ -13,6 +13,9 @@
     <link rel="stylesheet" href="./css/header.css">
     <link rel="stylesheet" href="./css/index.css">
     <link rel="stylesheet" href="./css/contact.css">
+    <link rel="stylesheet" href="./css/training.css">
+    <link rel="stylesheet" href="./css/clients.css">
+    <link rel="stylesheet" href="./css/services.css">
     <link rel="stylesheet" href="./css/about.css">
     <link rel="stylesheet" href="./css/footer.css">
     <link rel="stylesheet" href="./css/fancybox.min.css">
@@ -24,7 +27,7 @@
                 <nav class="navbar navbar-expand-lg my-navbar">
                     <a class="navbar-brand" href="index.php">
                         <img src="./images/Logo_1.svg" class="img-fluid logo1">
-                        <img src="./images/logo_1.svg" class="img-fluid logo2">
+                        <img src="./images/logo_2.png" class="img-fluid logo2">
                     </a>
                     <div class="toggel_btns">
                     <button class="navbar-toggler toggel_btn1" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,7 +44,7 @@
                                 <a class="nav-link" href="./index.php">Home </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="./about.php">About Us</a>
+                                <a class="nav-link" href="./about.php">About</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="./services.php">Services</a>

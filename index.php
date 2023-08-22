@@ -39,7 +39,7 @@
                         <h1>Your Partner for Sustainable Solutions in Environmental Science and Management.</h1>
                         <p>Empowering Industries and Communities Alike with Holistic Environmental Excellence.</p>
                         <div class="btn_box">
-                            <button class="btn1">Learn More</button>
+                            <a href="./services.php" class="btn1">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@
             <div class="col-md-6">
                 <div class="text">
                     <p class="sub-heading">Empowering Environmental Excellence</p>
-                    <p class="dec">At EMTRC Consultants Private Limited, we stand as trailblazers in providing holistic environmental solutions. With a rich heritage of expertise, we have evolved as a distinguished firm offering services from Environmental Impact Assessment and compliance audits to advanced research initiatives. Our NABL ISO:17025-2017, ISO:18001, and ISO:9001 accredited laboratory, backed by a seasoned team, ensures meticulous analysis and accurate results. Beyond our technical proficiency, we are dedicated to driving a sustainable future through knowledge-sharing, industry training, and strategic guidance for sound environmental decision-making. Our legacy is defined by our unwavering commitment to empower industries, support regulatory adherence, and foster a greener planet for generations to come.</p>
+                    <p class="dec">At EMTRC Consultants Private Limited, we stand as trailblazers in providing holistic environmental solutions. With a rich heritage of expertise, we have evolved as a distinguished firm offering services from Environmental Impact Assessment and compliance audits to advanced research initiatives. Beyond our technical proficiency, we are dedicated to driving a sustainable future through knowledge-sharing, industry training, and strategic guidance for sound environmental decision-making. Our legacy is defined by our unwavering commitment to empower industries, support regulatory adherence, and foster a greener planet for generations to come.</p>
                 </div>
             </div>
             <div class="col-md-6">
@@ -152,7 +152,7 @@
         </div>
         <div class="row flex_box">
             <div class="col-md-2 p-2">
-                <div class="box">
+                <div class="services_box">
                     <div class="img">
                         <img src="./images/sevices-icon/Environmental Planning.svg" alt="logo_EMTRC">
                     </div>
@@ -162,7 +162,7 @@
                 </div>
             </div>
             <div class="col-md-2 p-2">
-                <div class="box">
+                <div class="services_box">
                     <div class="img">
                         <img src="./images/sevices-icon/High Risk.svg" alt="logo_EMTRC">
                     </div>
@@ -172,7 +172,7 @@
                 </div>
             </div>
             <div class="col-md-2 p-2">
-                <div class="box">
+                <div class="services_box">
                     <div class="img">
                         <img src="./images/sevices-icon/Audit.svg" alt="logo_EMTRC">
                     </div>
@@ -182,7 +182,7 @@
                 </div>
             </div>
             <div class="col-md-2 p-2">
-                <div class="box">
+                <div class="services_box">
                     <div class="img">
                         <img src="./images/sevices-icon/System Task.svg" alt="logo_EMTRC">
                     </div>
@@ -192,7 +192,7 @@
                 </div>
             </div>
             <div class="col-md-2 p-2">
-                <div class="box">
+                <div class="services_box">
                     <div class="img">
                         <img src="./images/sevices-icon/Noise.svg" alt="logo_EMTRC">
                     </div>
@@ -204,7 +204,7 @@
         </div>
         <div class="row flex_box">
             <div class="col-md-2 p-2">
-                <div class="box">
+                <div class="services_box">
                     <div class="img">
                         <img src="./images/sevices-icon/Greentech.svg" alt="logo_EMTRC">
                     </div>
@@ -214,7 +214,7 @@
                 </div>
             </div>
             <div class="col-md-2 p-2">
-                <div class="box">
+                <div class="services_box">
                     <div class="img">
                         <img src="./images/sevices-icon/Training.svg" alt="logo_EMTRC">
                     </div>
@@ -224,7 +224,7 @@
                 </div>
             </div>
             <div class="col-md-2 p-2">
-                <div class="box">
+                <div class="services_box">
                     <div class="img">
                         <img src="./images/sevices-icon/Case Study.svg" alt="logo_EMTRC">
                     </div>
@@ -234,17 +234,17 @@
                 </div>
             </div>
             <div class="col-md-2 p-2">
-                <div class="box">
+                <div class="services_box">
                     <div class="img">
                         <img src="./images/sevices-icon/Marine Pollution.svg" alt="logo_EMTRC">
                     </div>
                     <div class="text">
-                        <p>Pollution control technology assessment and implementation.</p>
+                        <p>Pollution control technology assessment, implementation & evaluation.</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-2 p-2">
-                <div class="box">
+                <div class="services_box">
                     <div class="img">
                         <img src="./images/sevices-icon/Waste.svg" alt="logo_EMTRC">
                     </div>
@@ -256,7 +256,7 @@
         </div>
         <div class="row flex_box">
             <div class="col-md-2 p-2">
-                <div class="box">
+                <div class="services_box">
                     <div class="img">
                         <img src="./images/sevices-icon/Financial Growth Analysis.svg" alt="logo_EMTRC">
                     </div>
@@ -266,12 +266,42 @@
                 </div>
             </div>
             <div class="col-md-2 p-2">
-                <div class="box">
+                <div class="services_box">
                     <div class="img">
                         <img src="./images/sevices-icon/Consultation.svg" alt="logo_EMTRC">
                     </div>
                     <div class="text">
                         <p>Consultation on environmental regulations and standards.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 p-2">
+                <div class="services_box">
+                    <div class="img">
+                        <img src="./images/sevices-icon/Boxes.svg" alt="logo_EMTRC">
+                    </div>
+                    <div class="text">
+                        <p>Strategic EIA study & carrying capacity study</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 p-2">
+                <div class="services_box">
+                    <div class="img">
+                        <img src="./images/sevices-icon/Particle.svg" alt="logo_EMTRC">
+                    </div>
+                    <div class="text">
+                        <p>Hazardous waste & biometric waste studies </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 p-2">
+                <div class="services_box">
+                    <div class="img">
+                        <img src="./images/sevices-icon/Climate Change.svg" alt="logo_EMTRC">
+                    </div>
+                    <div class="text">
+                        <p>Sustainable reports, climate change or BRSR disclosure</p>
                     </div>
                 </div>
             </div>
@@ -315,23 +345,7 @@
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-6 color_area">
-                <h2>APPROVED LABORATORY</h2>
-                <p>Ministry of Environment, Forests & Climate Change under Environment (Protection) Act, 1986</p>
-            </div>
-            <div class="col-md-6 color_less">
-            <p>Ambient air, Stack emissions, Fugitive emissions, Water, Wastewater, Soil and Sediments, Noise, Meteorology.</p>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6 color_area">
-                <p>NABL ISO:17025</p>
-            </div>
-            <div class="col-md-6 color_less">
-                <p>Ambient air, Stack emissions, Fugitive emissions, Water, Wastewater, Soil and Sediments, Noise, Meteorology.</p>
-            </div>
-        </div>
+      
     </div>
 </section>
 <?php require('./includes/footer.php') ?>

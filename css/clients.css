@@ -1,0 +1,163 @@
+.clients_2{
+    position: relative;
+    padding: 2rem 0;
+}
+.clients_2 .head_text{
+    position: relative;
+}
+.clients_2 .head_text h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0.05em;
+    color: #153F21;
+}
+.clients_2 .head_text h1 img{
+    max-width: 30px;
+    width: 100%;
+    margin-left: 0.5rem;
+}
+.clients_2 .head_text p:nth-child(2){
+    font-size: 1.1rem;
+    color: #043B1A;
+    font-weight: 500;
+    text-align: justify;
+    line-height: 24px;
+}
+.clients_2 .head_text p:nth-child(3){
+    font-size: 1rem;
+    color: #043B1A;
+    font-weight: 600;
+    text-align: left;
+    line-height: 24px;
+}
+.clients_2 .box_text{
+   position: relative;
+   margin-bottom: 1rem;
+}
+.clients_2 .box_text h3{
+   font-size: 1.8rem;
+   font-weight: 500;
+   color: #153F21;
+   line-height: 40px;
+}
+.clients_2 .box_text p{
+   font-size: 1.1rem;
+   text-align: justify;
+   font-weight: 400;
+   color: #043B1A;
+   line-height: 24px;
+}
+
+
+/* ---------------------------Clients_3------------ */
+
+.clients_3 {
+    position: relative;
+    padding: 3rem 0;
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-position: center;
+    background-image: url(../images/EMTRC_2.png);
+}
+.clients_3 .text_box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.clients_3 .text_box h1{
+   font-size: 1.7rem;
+   line-height: 40px;
+   font-weight: 700;
+   color: #fff;
+}
+.clients_3 .text_box p{
+   font-size: 1rem;
+   line-height: 24px;
+   font-weight: 500;
+   color: #fff;
+}
+.clients_3 .text_box .btn_box{
+   position: relative;
+}
+.clients_3 .text_box .btn_box a{
+   text-decoration: none;
+   color: #fff;
+   font-weight: 500;
+   text-align: center;
+   padding: 0.7rem 1rem;
+   border-radius: 30px;
+}
+.clients_3 .text_box .img{
+   position: relative;
+   max-width: 30px;
+   margin-top: 1rem;
+}
+.clients_3 .text_box .img img{
+   width: 100%;
+}
+
+/* -------------clients_4-------------- */
+.clients_4{
+    position: relative;
+    padding: 2rem;
+}
+.clients_4 h1{
+   font-size: 2rem;
+   font-weight: 700;
+   text-align: center;
+   line-height: 50px;
+   color: #043B1A;
+}
+
+
+
+
+
+/*===== Company logo scroll =====*/
+.companys_scroll .items {
+	display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+.companys_scroll .items img {
+	width: 40%;
+  aspect-ratio: 3/4;
+  object-fit: contain;
+  }
+.companys_scroll .owl-nav {
+	position: absolute;
+	top: 50%;
+	left: -20px;
+	right: -20px;
+    /* display: block !important; */
+  }
+  .companys_scroll .owl-nav > div {
+	position: absolute;
+	line-height: 38px;
+	width: 40px;
+	text-align: center;
+	background-color: #a8a8a8;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	-webkit-box-shadow: 0 0 30px rgba(0,0,0,0.1);
+	-ms-box-shadow: 0 0 30px rgba(0,0,0,0.1);
+	-o-box-shadow: 0 0 30px rgba(0,0,0,0.1);
+	box-shadow: 0 0 30px rgba(0,0,0,0.1);
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	transform: translateY(-50%);
+	font-size: 18px;
+	height: 40px;
+	border: 2px solid #fff;
+	color: #fff;
+  }
+  .companys_scroll .owl-nav > div.owl-prev {left: 0;}
+  .companys_scroll .owl-nav > div.owl-next {right: 0;}
+  .companys_scroll .owl-nav > div:hover, 
+  .companys_scroll .owl-nav > div:focus {color: #fff;}

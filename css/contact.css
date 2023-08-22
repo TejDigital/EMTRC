@@ -1,0 +1,135 @@
+.contact_1{
+    position: relative;
+    padding: 2rem 0;
+}
+.contact_1 .head_text{
+    position: relative;
+}
+.contact_1 .head_text h1{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+    text-align: left;
+    font-size: 2rem;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0.05em;
+    color: #153F21;
+}
+.contact_1 .head_text h1 img{
+    max-width: 30px;
+    width: 100%;
+    margin-left: 0.5rem;
+}
+.contact_1 .head_text p{
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    color: #153F21;
+}
+.contact_1 .box{
+    position: relative;
+}
+.contact_1 .box .img{
+    /* max-width: 40px; */
+    width: 100%;
+}
+.contact_1 .box .img img{
+    /* width: 100%; */
+    min-width: 100px;
+    max-width: 1005;
+}
+.contact_1 .box .text{
+   text-align: left;
+   
+}
+.contact_1 .box .text h2{
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #153F21;
+  line-height: 28px;
+}
+.contact_1 .box .text p{
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  flex-wrap: wrap;
+  color: #043B1A;
+}
+.contact_1 .box .text p a{
+    color: #043B1A;
+    text-decoration: none;
+}
+.contact_1 .box .text .address{
+    display: flex;
+  align-items: start;
+  justify-content: 
+  left;
+  flex-direction: column;
+}
+.contact_1 .box .text .address p{
+    font-size: 0.6rem;
+    color: #043B1A;
+    font-weight: 400;
+    display: inline-block;
+    margin: 0;
+    /* line-height: 10px; */
+    
+}
+.contact_1 .box .text .address p span{
+    color: #043B1A;
+    /* line-height: 10px; */
+    font-weight: 700;
+
+}
+.contact_1 .input_form{
+    position: relative;
+    padding: 2rem 0 ;
+}
+.contact_1 .input_form .flex_box{ 
+    display: flex;
+    align-items: start;
+    justify-content: left;
+    flex-direction: column;
+}
+.contact_1 .input_form p{
+   font-size: 0.9rem;
+   font-weight: 400;
+   text-align: left;
+}
+.contact_1 .input_form h2{
+   font-size: 1.5rem;
+   font-weight: 600;
+   text-align: left;
+}
+.contact_1 .input_form .input_box{
+ padding: 1rem ;
+ border: 1.5px solid #043B1A;
+ margin-bottom: 1rem;
+ width: 100%;
+}
+.contact_1 .input_form .input_box::placeholder{
+ font-weight: 400;
+ color: #153F21;
+}
+.contact_1 .input_form .sub_btn{
+ color: #fff;
+ background-color: #153F21;
+ padding: 1rem;
+ text-align: center;
+ font-weight: 600;
+ width: 100%;
+}
+.contact_1 .input_form .map{
+    padding: 0 1.5rem;
+    height: 100%;
+    width: 100%;
+}
+.contact_1 .input_form .map iframe{
+    width: 100%;
+    height: 100%;
+}

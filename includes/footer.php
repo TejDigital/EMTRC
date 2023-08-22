@@ -5,7 +5,7 @@
                 <div class="left_text">
                     <div class="imgs">
                         <div class="img1">
-                            <img src="images/Logo_1.svg" alt="">
+                            <img src="./images/logo_2.png" alt="">
                         </div>
                     </div>
                     <div class="footer_about_text">
@@ -19,9 +19,10 @@
                         <li>
                             <h3>Contact Information</h3>
                         </li>
+                        <li><p>Feel free to contact us and reach us!</p></li>
                         <li><span><i class="fa-solid fa-phone"></i></span><a href="#!">97180-13658</a></li>
                         <li><span><i class="fa-regular fa-envelope"></i></span><a href="#!">emtrcjkm@gmail.com</a></li>
-                        <li><span><i class="fa-solid fa-location-dot"></i></span>Ansal Plaza Upper Mezzanine UM113 - 113A Near Metro Station Vaishali, GHAZIABAD (NCR) Pin Code - 201010</li>
+                        <li><span><i class="fa-solid fa-location-dot"></i></span><a href="#!">Ansal Plaza Upper Mezzanine UM113 - 113A Near Metro Station Vaishali, GHAZIABAD (NCR) Pin Code - 201010</a></li>
                     </ul>
                 </div>
             </div>

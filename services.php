@@ -169,6 +169,12 @@
                 </p>
             </div>
         </div>
+        <div class="row">
+            <div class="col-md-12 service_foot_text">
+                <p>Each of these services is designed to not only address immediate environmental needs but also to provide long-term benefits, helping clients integrate sustainability, responsibility, and efficiency into their operations.</p>
+                <a href="./about.php">Learn About Us</a>
+            </div>
+        </div>
     </div>
 </section>
 <?php require('./includes/footer.php') ?>

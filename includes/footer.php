@@ -9,7 +9,7 @@
                         </div>
                     </div>
                     <div class="footer_about_text">
-                        <p>We are a dedicated team of environmental professionals committed to providing comprehensive and sustainable solutions for a greener tomorrow. <span><a href="#!">Read More</a></span></p>
+                        <p>We are a dedicated team of environmental professionals committed to providing comprehensive and sustainable solutions for a greener tomorrow. <span><a href="./about.php">Read More</a></span></p>
                     </div>
                 </div>
             </div>
@@ -20,9 +20,9 @@
                             <h3>Contact Information</h3>
                         </li>
                         <li><p>Feel free to contact us and reach us!</p></li>
-                        <li><span><i class="fa-solid fa-phone"></i></span><a href="#!">97180-13658</a></li>
-                        <li><span><i class="fa-regular fa-envelope"></i></span><a href="#!">emtrcjkm@gmail.com</a></li>
-                        <li><span><i class="fa-solid fa-location-dot"></i></span><a href="#!">Ansal Plaza Upper Mezzanine UM113 - 113A Near Metro Station Vaishali, GHAZIABAD (NCR) Pin Code - 201010</a></li>
+                        <li><span><i class="fa-solid fa-phone"></i></span><a href="tel:9718013658">97180-13658</a></li>
+                        <li><span><i class="fa-regular fa-envelope"></i></span><a href="mailto:emtrcjkm@gmail.com">emtrcjkm@gmail.com</a></li>
+                        <li><span><i class="fa-solid fa-location-dot"></i></span><a href="#!" onclick="my_location()">Ansal Plaza Upper Mezzanine UM113 - 113A Near Metro Station Vaishali, GHAZIABAD (NCR) Pin Code - 201010</a></li>
                     </ul>
                 </div>
             </div>
@@ -32,11 +32,11 @@
                         <li>
                             <h3>Quick Links</h3>
                         </li>
-                        <li><a href="#!">Home</a></li>
-                        <li><a href="#!">About</a></li>
-                        <li><a href="#!">Clients</a></li>
-                        <li><a href="#!">Training</a></li>
-                        <li><a href="#!">Contact</a></li>
+                        <li><a href="./index.php">Home</a></li>
+                        <li><a href="./about.php">About</a></li>
+                        <li><a href="./clients.php">Clients</a></li>
+                        <li><a href="./training.php">Training</a></li>
+                        <li><a href="./contact.php">Contact</a></li>
                     </ul>
                 </div>
             </div>

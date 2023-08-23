@@ -24,6 +24,11 @@ $(function () {
     });
   });
 
+  // -----------------------location------------------
+  function my_location(){
+    location.href ="https://goo.gl/maps/EreX4BTfNGHF3gSh8";
+  }
+
 
   //   --------------------------------------------current-page---------------
 

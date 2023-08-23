@@ -225,7 +225,7 @@
 .home_about .about_bg .img{
     max-width: 100%;
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
 }
 .home_about .about_bg .img img{
     width: 100%;

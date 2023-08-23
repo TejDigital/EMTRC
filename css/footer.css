@@ -29,6 +29,10 @@
 }
 
 
+.footer .footer_about_text {
+    position: relative;
+    z-index: 1;
+}
 .footer .footer_about_text p {
     font-size: 1rem;
     font-weight: 400;
@@ -91,7 +95,11 @@
     font-weight: 500;
     word-break: break-word;
     line-height: 30px;
+    transition: 0.5s all;
+}
 
+.footer .list ul li a:hover{
+  color:#043B1A;
 }
 
 

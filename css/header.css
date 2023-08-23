@@ -224,7 +224,12 @@ body {
 .navbar-scroll .nav-item .current {
 	color: #fff;
 }
-
+@media(max-width:998px){
+	.navbar-scroll .nav-item .current {
+		color: #000;
+		font-weight: 500;
+	}
+}
 .navbar-scroll .nav-item .nav-link:hover {
 	color: #fff;
 }

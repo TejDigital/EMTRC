@@ -54,7 +54,7 @@
             <h1>Connect with Us</h1>
             <p>Your trusted pathway towards sustainable solutions and environmental commitment.</p>
             <div class="btn_box">
-                <a href="#!">Contact Us</a>
+                <a href="./contact.php">Contact Us</a>
             </div>
             <div class="img">
                 <img src="./images/logo_footer.svg" alt="">

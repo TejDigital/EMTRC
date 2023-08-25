@@ -93,3 +93,32 @@ for (let i = 0; i < menuitems.length; i++) {
       },
     },
   });
+  //=== company logo Carousel ===//
+  $(".com_logos3").owlCarousel({
+    loop: true,
+    autoplay: true,
+    autoplayTimeout: 1000,
+    autoplayHoverPause: true,
+    margin: 10,
+    nav: false,
+    dots:false,
+    navText: [
+      "<i class='fa fa-angle-left'></i>",
+      "<i class='fa fa-angle-right'></i>",
+    ],
+    responsive: {
+      0: {
+        items: 1,
+      },
+      600: {
+        items: 3,
+      },
+      1000: {
+        items: 5,
+      },
+    },
+  });
+
+  $('.services_box').hover(function () {
+    $(this).addClass('magictime boingInUp');
+});

@@ -10,7 +10,7 @@
 </section>
 <section class="about_hero">
     <div class="container">
-        <div class="row">
+        <div class="row margin-x">
             <div class="col-md-6">
                 <h1>About EMTRC Consultants Pvt. Ltd.</h1>
                 <p>Welcome to EMTRC Consultants Pvt. Ltd., a renowned leader in providing specialized and sustainable solutions in the field of Environmental Science and Management. Established in 2002, EMTRC has emerged as a trusted partner for comprehensive environmental solutions, driven by a commitment to excellence, innovation, and a greener tomorrow.</p>
@@ -18,7 +18,7 @@
             </div>
             <div class="col-md-6">
                 <div class="img">
-                    <img src="./images/logo_footer.svg" alt="">
+                    <img src="./images/emtrc_about_us.png" alt="">
                 </div>
             </div>
         </div>
@@ -34,7 +34,8 @@
 </section>
 <section class="about_3">
     <div class="container">
-        <p>At EMTRC, our goal is to provide clients with accurate information, analyze findings using standardized scientific methods, and deliver practical management solutions that enable clients to meet their objectives and legal obligations. Our wide range of services encompasses environmental sampling, compliance assessments, EIA studies, risk analyses, disaster management planning, environmental audits, and much more. With an unmatched commitment to quality and sustainability, we have successfully served clients across diverse sectors including power, steel, cement, mining, and infrastructure.</p>
+        <div class="margin-x">
+            <p>At EMTRC, our goal is to provide clients with accurate information, analyze findings using standardized scientific methods, and deliver practical management solutions that enable clients to meet their objectives and legal obligations. Our wide range of services encompasses environmental sampling, compliance assessments, EIA studies, risk analyses, disaster management planning, environmental audits, and much more. With an unmatched commitment to quality and sustainability, we have successfully served clients across diverse sectors including power, steel, cement, mining, and infrastructure.</p>
 
             <p>Our holistic approach extends to research, training, and capacity-building initiatives. We conduct sponsored research studies, training programs, and workshops aimed at fostering awareness and capability development among professionals in the realm of environment. With a state-of-the-art laboratory, advanced equipment, and a commitment to innovation, EMTRC continues to pave the way for transformative environmental solutions.</p>
 
@@ -45,6 +46,7 @@
             <div class="btn_box">
                 <a href="./services.php">Explore our Services</a>
             </div>
+        </div>
     </div>
 </section>
 <?php require('./includes/footer.php') ?>

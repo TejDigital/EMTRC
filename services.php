@@ -31,7 +31,8 @@
             <h1>Unveiling a Spectrum of Dedicated Services.</h1>
             <p class="sub_title">Navigating Environmental Excellence from EMTRC</p>
         </div>
-        <div class="row">
+        <div class="margin-x">
+            <div class="row">
             <div class="col-md-6 flex_box p-2">
                 <div class="services_box">
                     <div class="img">
@@ -174,6 +175,7 @@
                 <p>Each of these services is designed to not only address immediate environmental needs but also to provide long-term benefits, helping clients integrate sustainability, responsibility, and efficiency into their operations.</p>
                 <a href="./about.php">Learn About Us</a>
             </div>
+        </div>
         </div>
     </div>
 </section>

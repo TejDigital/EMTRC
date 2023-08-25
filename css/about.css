@@ -16,13 +16,25 @@
     text-align: justify;
 }
 .about_hero .img{
-    width: auto;
-    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* height: 100%; */
     max-height: 450px;
+    min-height: 100%;
 }
 .about_hero .img img{
+    max-width: 70%;
+    min-height: 100%;
+    max-height: 450px;
     width: 100%;
-    height: 100%;
+    /* height: 100%; */
+}
+@media(max-width:998px){
+    .about_hero .img img{
+        max-width: 100%;
+    }
 }
 
 /* -------------------------------------about_2----------------- */
@@ -74,7 +86,7 @@
 }
 .btn_box{
     text-align: center;    
-    margin-top: 2rem;
+    margin: 2rem 0;
 }
 .btn_box a{
     text-align: center; 

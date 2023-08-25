@@ -19,6 +19,8 @@
     <link rel="stylesheet" href="./css/about.css">
     <link rel="stylesheet" href="./css/footer.css">
     <link rel="stylesheet" href="./css/fancybox.min.css">
+    <link rel="stylesheet" href="./magic-master/dist/magic.css">
+    <link rel="stylesheet" href="./magic-master/dist/magic.min.css">
 </head>
 <body>
 <header class="header">

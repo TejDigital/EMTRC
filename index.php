@@ -2,21 +2,21 @@
 
 <section class="home_top">
     <div class="box">
-        <!-- <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" style="position: relative;">
+        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" style="position: relative;">
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <div class="img">
-                        <img src="images/steel_img_7.jpg" alt="">
+                        <img src="images/home_img_1.png" alt="">
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="img">
-                        <img src="images/steel_img_8.jpg" alt="">
+                        <img src="images/home_img_1.png" alt="">
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="img">
-                        <img src="images/steel_img_9.jpg" alt="">
+                        <img src="images/home_img_1.png" alt="">
                     </div>
                 </div>
             </div>
@@ -28,15 +28,15 @@
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="visually-hidden">Next</span>
             </button>
-        </div> -->
-        <div class="img">
-            <img src="images/home_img_1.png" alt="">
         </div>
+        <!-- <div class="img">
+            <img src="images/home_img_1.png" alt="">
+        </div> -->
         <div class="text">
             <div class="container">
                 <div class="row d-flex align-items-center justify-content-between">
                     <div class="col-md-12 main_box">
-                        <h1>Your Partner for Sustainable Solutions in Environmental Science and Management.</h1>
+                        <h1>Your Partner for Sustainable Solutions in Environmental Science and <br> Management.</h1>
                         <p>Empowering Industries and Communities Alike with Holistic Environmental Excellence.</p>
                         <div class="btn_box">
                             <a href="./services.php" class="btn1">Learn More</a>
@@ -63,8 +63,8 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="about_bg">
-                    <div class="img">
+                <div class="about_bg" data-aos="flip-up" data-aos-delay="100"  data-aos-duration="1000">
+                    <div class="img ">
                         <img src="./images/home_about_1.png" alt="">
                     </div>
                 </div>
@@ -127,7 +127,7 @@
 </section>
 <section class="vision_mission">
     <div class="container">
-        <div class="row">
+        <div class="row margin-x">
             <div class="col-md-6">
                 <h1>Mission</h1>
                 <p>To lead the way in fostering environmental stewardship by delivering innovative solutions that address complex challenges, promote sustainability, and contribute to a healthier planet for present and future generations.</p>
@@ -162,6 +162,8 @@
                 </div>
             </div>
             <div class="col-md-2 p-2">
+                <!-- <div class="flip_box">
+                    <div class="flip-inner-box"> -->
                 <div class="services_box">
                     <div class="img">
                         <img src="./images/sevices-icon/High Risk.svg" alt="logo_EMTRC">
@@ -170,6 +172,11 @@
                         <p>Risk analysis and disaster management planning.</p>
                     </div>
                 </div>
+                <!-- <div class="flip-text-box">
+                             <p>hello i am don what</p>
+                        </div>
+                    </div>
+                </div> -->
             </div>
             <div class="col-md-2 p-2">
                 <div class="services_box">
@@ -306,7 +313,7 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row margin-x">
             <div class="col-md-12 end_text">
                 <p>EMTRC Consultants Pvt. Ltd. offers cutting-edge services, including Environmental Impact Assessments, risk analyses, compliance audits, and more. We specialize in air, water, and soil quality monitoring, noise assessment, and comprehensive pollution control strategies. Our expertise extends to biodiversity studies, capacity-building, and innovative research projects, all contributing to a greener and more sustainable future.</p>
             </div>
@@ -323,29 +330,145 @@
 </section>
 <section class="certification">
     <div class="container">
-        <div class="head">
-            <h1>Certification / Accrediation</h1>
-        </div>
-        <div class="row">
-            <div class="col-md-6 color_area">
-                <h2>EIA SECTORS</h2>
-                <p>QUALITY COUNCIL OF INDIA - NABET <br>
-                    DR. J.K.MOITRA, <br>
-                    EIA COORDINATOR</p>
+        <div class="margin-x">
+            <div class="head">
+                <h1>Certification / Accrediation</h1>
             </div>
-            <div class="col-md-6 color_less">
-                <div class="list">
-                    <ul>
-                        <li>Mining of Minerals including Opencast / Underground Mining (A Category)</li>
-                        <li>Thermal Power Plants (A Category)</li>
-                        <li>Metallurgical Industries (ferrous & non-ferrous) (A Category)</li>
-                        <li>Cement Plants (A Category)</li>
-                        <li>Coal Washery (A Category)</li>
-                    </ul>
+            <div class="row">
+                <div class="col-md-6 color_area">
+                    <h2>EIA SECTORS</h2>
+                    <p>QUALITY COUNCIL OF INDIA - NABET <br>
+                        DR. J.K.MOITRA, <br>
+                        EIA COORDINATOR</p>
+                </div>
+                <div class="col-md-6 color_less">
+                    <div class="list">
+                        <ul>
+                            <li>Mining of Minerals including Opencast / Underground Mining (A Category)</li>
+                            <li>Thermal Power Plants (A Category)</li>
+                            <li>Metallurgical Industries (ferrous & non-ferrous) (A Category)</li>
+                            <li>Cement Plants (A Category)</li>
+                            <li>Coal Washery (A Category)</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
-      
+
+    </div>
+</section>
+<section class="clients_4">
+    <div class="container">
+        <h1>Our Proud Partners in Environmental Excellence.</h1>
+        <div class="companys_scroll my-2">
+            <div class="com_logos owl-carousel owl-theme">
+                <div class="items">
+                    <img src="./images/clients/1.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/2.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/3.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/4.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/5.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/6.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/7.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/8.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/9.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/10.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/11.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/12.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/13.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/14.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/15.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/16.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/17.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/18.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/19.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/20.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/21.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/22.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/23.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/24.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/25.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/26.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/27.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/28.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/29.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/30.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/31.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/32.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/33.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/34.png" alt="">
+                </div>
+                <div class="items">
+                    <img src="./images/clients/35.png" alt="">
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 <?php require('./includes/footer.php') ?>

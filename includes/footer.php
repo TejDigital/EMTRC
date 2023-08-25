@@ -5,7 +5,9 @@
                 <div class="left_text">
                     <div class="imgs">
                         <div class="img1">
-                            <img src="./images/logo_2.png" alt="">
+                            <a href="./index.php">
+                                <img src="./images/logo_2.png" alt="">
+                            </a>
                         </div>
                     </div>
                     <div class="footer_about_text">
@@ -40,8 +42,8 @@
                     </ul>
                 </div>
             </div>
-            <div class="foot_icon">
-                <img class="foot_img" src="./images/logo_footer.svg" alt="">
+            <div class="foot_icon "   >
+                <img class="foot_img " data-aos="fade-right" data-aos-delay="100" data-aos-easing="ease-out-cubic" data-aos-duration="1000" src="./images/logo_footer.svg" alt="">
             </div>
         </div>
           

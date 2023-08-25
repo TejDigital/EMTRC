@@ -66,7 +66,7 @@
     <div class="container">
         <h1>Our Proud Partners in Environmental Excellence.</h1>
         <div class="companys_scroll my-2">
-            <div class="com_logos owl-carousel owl-theme">
+            <div class="com_logos3 owl-carousel owl-theme">
                 <div class="items">
                     <img src="./images/clients/1.png" alt="">
                 </div>
